@@ -1,5 +1,5 @@
 
-const airports = require('airport-codes');
+const airports = require('airport-codes-updated');
 const moment = require('moment-timezone');
 
 const get = require('./asyncGet');

@@ -1,7 +1,7 @@
 
 skiplagged-node-api
 ===================
-A node.js wrapper for the [Skiplagged](http://skiplagged.com) API
+A node.js wrapper for the [Skiplagged](http://skiplagged.com) API, forked from https://github.com/krishnaglick/skiplagged-node-api to upate the stale airport data.
 
 
 Table of Contents
